@@ -102,4 +102,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **Gideon Asante** -(https://github.com/yeboah326)
-* **JOhanan Oppong Amoateng** -(https://github.com/JohananOppongAmoateng)
+* **Johanan Oppong Amoateng** -(https://github.com/JohananOppongAmoateng)
