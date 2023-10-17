@@ -24,7 +24,8 @@ struct convert
 };
 typedef struct convert conver_t;
 
-
+void cleanup(va_list args, buffer_t *output);
+int run_printf(const char *format, va_list args, buffer_t *output);
 int _printf(const char *format, ...);
 int _putchar(char c);
 int format_reciever(const char *format, conver_t f_list[], va_list arg_list);
